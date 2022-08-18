@@ -1,4 +1,4 @@
-const api_key = "7c58c9507d08214195fad9b7ed1e6089";
+const api_key = ""; //Insert API Key
 
 async function getWeather(lat, lon) {
     const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${api_key}`
