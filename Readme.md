@@ -16,7 +16,7 @@
 - OpenWeatherMap API
 
 ## Visit Site
-https://storied-malabi-9dc98c.netlify.app
+https://weather-information-project-clone.netlify.app/
 
 ## Copy this link to clone the Github Repository
 https://github.com/Sirajuddin135/WeatherApp
